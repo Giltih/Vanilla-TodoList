@@ -1,6 +1,9 @@
 # Vanilla-TodoList
 TodoList made with JS CSS HTML with 
-css:
+Features:
+- Add tasks to the list
+- Remove tasks from the list
+Css:
 background gradient 
 Input field has a border and border radius
 The "Add" button now has a transition effect
