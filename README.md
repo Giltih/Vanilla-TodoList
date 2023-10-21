@@ -1,5 +1,5 @@
 # Vanilla-TodoList
-TodoList made with JS CSS HTML with 
+TodoList made with JS-CSS-HTML with 
 Features:
 - Add tasks to the list
 - Remove tasks from the list
