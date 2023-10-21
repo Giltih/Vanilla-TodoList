@@ -4,9 +4,9 @@ Features:
 - Add tasks to the list
 - Remove tasks from the list
 Css:
-background gradient 
-Input field has a border and border radius
-The "Add" button now has a transition effect
+background gradient.
+Input field has a border and border radius.
+The "Add" button now has a transition effect.
 Task items have a more pronounced border and rounded corners.
 The "Delete" button has a similar hover effect as the "Add" button for consistency.
 
