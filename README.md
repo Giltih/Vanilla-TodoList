@@ -3,7 +3,7 @@ TodoList made with JS-CSS-HTML with
 Features:
 - Add tasks to the list
 - Remove tasks from the list
-Css:
+- Css:
 - background gradient.
 - Input field has a border and border radius.
 - The "Add" button now has a transition effect.
